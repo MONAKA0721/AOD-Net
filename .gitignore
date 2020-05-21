@@ -1,0 +1,4 @@
+results_*/
+image_results/
+*.ipynb
+.ipynb_checkpoints/
